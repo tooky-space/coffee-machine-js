@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "test": "cucumberjs"
+    "test": "cucumberjs --format=json:results.json"
   },
   "devDependencies": {
     "cucumber": "^1.2.2",
