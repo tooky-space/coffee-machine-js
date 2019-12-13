@@ -1,7 +1,7 @@
 Feature: Water
-    As a coffee lover
-    I have to handle the water tank
-    So I can have coffee when I need it
+
+  The machine will provide information about the level of water in the tank
+  to ensure continued delivery of coffee.
 
   Background:
     Given the coffee machine is started

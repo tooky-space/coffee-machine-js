@@ -1,7 +1,7 @@
 Feature: Grounds
-    As a coffee lover
-    I have to empty the grounds
-    So I don't end up with a total mess around the coffee machine
+
+  The machine will warn users when the grounds bin is nearly full to
+  prevent mess.
 
   Background:
     Given the coffee machine is started

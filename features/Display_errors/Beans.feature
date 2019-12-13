@@ -1,7 +1,8 @@
 Feature: Beans
-    As a coffee lover
-    I have to put fresh beans from time to time
-    So I can have coffee when I need it
+
+  The machine will help users understand when it is low on coffee beans.
+
+  The machine cannot serve coffee when it has run out of beans.
 
   Background:
     Given the coffee machine is started
