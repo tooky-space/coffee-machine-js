@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "test": "cucumberjs"
+  },
   "devDependencies": {
     "cucumber": "^1.2.2",
     "cucumber-junit": "git+https://github.com/vincent-psarga/cucumber-junit.git"
