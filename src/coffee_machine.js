@@ -17,7 +17,7 @@ exports.CoffeeMachine = function CoffeeMachine () {
   instance.i18n = {
     en: {
       tank: 'Fill tank',
-      beans: 'Fill beans',
+      beans: 'Fill coffee',
       grounds: 'Empty grounds',
       ready: 'Ready',
       settings: 'Settings:\n - 1: water hardness\n - 2: grinder',
