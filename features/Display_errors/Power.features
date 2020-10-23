@@ -1,0 +1,6 @@
+Feature: Power
+  Rule: Batter back up
+    Scenario: Mains power is out
+       Given the mains power is disconnected
+       When the device is turned on
+       Then a warning that the power is out and the machine won't function is displayed
